@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A982CEE62ED0743C00B3CC8F /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = A982CEE52ED0743300B3CC8F /* .gitignore */; };
 		BAC899672EC736C900AAB38A /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = BAC899662EC736C900AAB38A /* RealityKitContent */; };
 /* End PBXBuildFile section */
 
@@ -22,6 +23,7 @@
 
 /* Begin PBXFileReference section */
 		A9040B992ED06C1D00FC1D09 /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = RealityKitContent; path = /Users/marco/Desktop/Playground/Packages/RealityKitContent; sourceTree = "<absolute>"; };
+		A982CEE52ED0743300B3CC8F /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		BAC899612EC736C900AAB38A /* darts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = darts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAC899752EC736CB00AAB38A /* dartsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = dartsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -74,6 +76,7 @@
 		BAC899582EC736C900AAB38A = {
 			isa = PBXGroup;
 			children = (
+				A982CEE52ED0743300B3CC8F /* .gitignore */,
 				BAC899632EC736C900AAB38A /* darts */,
 				BAC899642EC736C900AAB38A /* Packages */,
 				BAC899782EC736CB00AAB38A /* dartsTests */,
@@ -191,6 +194,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A982CEE62ED0743C00B3CC8F /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

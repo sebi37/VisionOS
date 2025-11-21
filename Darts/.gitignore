@@ -1,0 +1,66 @@
+# Xcode
+.DS_Store
+*.xcuserstate
+*.xcscmblueprint
+
+# Build generated
+DerivedData/
+build/
+
+# User-specific
+*.xcworkspace/xcuserdata/
+*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+# SwiftPM
+/.swiftpm/xcode/package.xcworkspace/xcuserdata/
+/.swiftpm/xcode/package.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Swift Package Manager
+.build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Archives
+*.xcarchive
+
+# Playground
+timeline.xctimeline
+playground.xcworkspace
+
+# Certificates
+*.cer
+*.mobileprovision
+*.p12
+*.xcuserstate
+
+# App Thinning
+*.ipa
+
+# Crashlytics
+fabric.properties
+
+# Xcode automatic device support
+DeviceSupport/
+
+# SPM artifacts
+Artifacts/
+
+# Other
+.idea/
+*.moved-aside
+*.hmap
+*.ipa
+# End of file
+
