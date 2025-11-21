@@ -21,8 +21,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A9040B992ED06C1D00FC1D09 /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = RealityKitContent; path = /Users/marco/Desktop/Playground/Packages/RealityKitContent; sourceTree = "<absolute>"; };
 		BAC899612EC736C900AAB38A /* darts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = darts.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		BAC899652EC736C900AAB38A /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
 		BAC899752EC736CB00AAB38A /* dartsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = dartsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -93,7 +93,7 @@
 		BAC899642EC736C900AAB38A /* Packages */ = {
 			isa = PBXGroup;
 			children = (
-				BAC899652EC736C900AAB38A /* RealityKitContent */,
+				A9040B992ED06C1D00FC1D09 /* RealityKitContent */,
 			);
 			path = Packages;
 			sourceTree = "<group>";
